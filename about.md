@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello World. I am Matthias Lee
 
 ### More Information
 
